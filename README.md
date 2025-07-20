@@ -22,4 +22,4 @@ This is a basic static portfolio website built with HTML and CSS. It is designed
  
   • CSS3
  
-  • Font Awesome (via CDN)
+  • Font Awesome (via CDN).
